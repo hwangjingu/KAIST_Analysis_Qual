@@ -8,7 +8,7 @@ If you find any issues in my solutions, such as mathematical errors, grammatical
 
 Of course do not hesitate to ask me if you have any questions in this solutions.
 
-[You can read it with Google drive.](https://drive.google.com/file/d/1FPv-3Yx2sb0-YJW-C2CgSMHMpbEvh7-2/view?usp=sharing)
+[You can read it in Google drive.](https://drive.google.com/file/d/1FPv-3Yx2sb0-YJW-C2CgSMHMpbEvh7-2/view?usp=sharing)
 
 ====
 
