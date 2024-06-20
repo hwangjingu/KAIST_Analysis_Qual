@@ -8,6 +8,8 @@ If you find any issues in my solutions, such as mathematical errors, grammatical
 
 Of course do not hesitate to ask me if you have any questions in this solutions.
 
+[You can read it with Google drive.](https://drive.google.com/file/d/1FPv-3Yx2sb0-YJW-C2CgSMHMpbEvh7-2/view?usp=sharing)
+
 ====
 
 2020년도 겨울 이후의 실해석학과 복소해석학 박사과정시험의 문제를 풀고 정리하고 있습니다. 
@@ -17,3 +19,5 @@ Of course do not hesitate to ask me if you have any questions in this solutions.
 수학적 오류, 문법 오류, 혹은 단순 오타 등을 발견하셨다면 제 전자 우편 `jirak22 [at] kaist [dot] ac [dot] kr`로 연락 바랍니다.
 
 본 해설본에 질문이 있으시면 언제든 질문하셔도 좋습니다.
+
+[구글 드라이브에서 보기](https://drive.google.com/file/d/1FPv-3Yx2sb0-YJW-C2CgSMHMpbEvh7-2/view?usp=sharing)
