@@ -8,7 +8,7 @@ If you find any issues in my solutions, such as mathematical errors, grammatical
 
 Of course do not hesitate to ask me if you have any questions in this solutions.
 
-[You can read it in Google drive.](https://drive.google.com/file/d/1FPv-3Yx2sb0-YJW-C2CgSMHMpbEvh7-2/view?usp=sharing)
+[You can read it in Google drive.](https://drive.google.com/file/d/16BE20fEagKVotwzWAsUpsUVDvdMgSTCP/view?usp=sharing)
 
 ====
 
@@ -20,4 +20,4 @@ Of course do not hesitate to ask me if you have any questions in this solutions.
 
 본 해설본에 질문이 있으시면 언제든 질문하셔도 좋습니다.
 
-[구글 드라이브에서 보기](https://drive.google.com/file/d/1FPv-3Yx2sb0-YJW-C2CgSMHMpbEvh7-2/view?usp=sharing)
+[구글 드라이브에서 보기](https://drive.google.com/file/d/16BE20fEagKVotwzWAsUpsUVDvdMgSTCP/view?usp=sharing)
